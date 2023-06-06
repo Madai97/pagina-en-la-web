@@ -1,5 +1,5 @@
-body{background-color:pink;
-  color: mediumpurple;
+body{background-color:rgb(252, 249, 250);
+  color: rgb(6, 6, 6);
 } 
 h1{
   font-family:'Times New Roman', Times, serif; 
@@ -13,7 +13,7 @@ p{
   text-align: justify;
   margin: 20px;
   padding: 10px;
-  color:blue;
+  color:rgb(0, 0, 0);
 }
 .container{
   max-width: 800px;
@@ -96,7 +96,7 @@ display: none;
 
 .button-menu-toggle {
   display: block;
-  background-color: white;
+  background-color: rgb(179, 24, 24);
   border:none;
   border-radius: 50px;
   padding: 0 24px;
@@ -108,7 +108,7 @@ display: none;
 .nav-links.nav-links-responsive {
   position: absolute;
   display: flex;
-  background-color: rgba(20,20,20,0.95);
+  background-color: rgb(255, 255, 254);
   width: 100%;
   height: 100%;
   top: 70px;
